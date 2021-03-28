@@ -1,0 +1,2 @@
+# Ceramics-Company-webpages--PHP-and-SQL
+The Webpages that are part of an inventory system were built using XAMPP as a control panel and Apache NetBeans as an integrated development environment. The Webpages allows a person to add door lever products to be stored in a database (SQL) for later use. The webpages also enable the updating and deleting of records, a login page where the admin can log in securely and permit the upload of product images to a web server. 
